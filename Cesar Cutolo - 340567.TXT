@@ -1,0 +1,5 @@
+https://geekburgerproducts20211206204045.azurewebsites.net/api/products/Paulista
+
+https://geekburgerproducts20211206204045.azurewebsites.net
+
+Cesar Augusto Cutolo - 340567
